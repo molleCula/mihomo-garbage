@@ -1,0 +1,20 @@
+payload:
+  - PROCESS-NAME,start_protected_game.exe # Apex Easy, THE FINALS  Anti-Cheat
+  - PROCESS-NAME,BattleBitEAC.exe # BattleBit EAC
+  - PROCESS-NAME,EasyAntiCheat.exe # Easy Anti-Cheat
+  - PROCESS-NAME,TslGame_BE.exe # PUBG BattleEye
+  - PROCESS-NAME,TslGame_ZK.exe # PUBG Anti-Cheat module
+  - PROCESS-NAME-REGEX,(?i).*Vanguard.* # Valorant Vanguard Anti-Cheat
+  - PROCESS-NAME-REGEX,(?i).*vanguard.* # Vanguard Anti-Cheat (Valorant, League of Legends)
+  - PROCESS-NAME,vgc.exe  # Vanguard Anti-Cheat (Valorant, League of Legends)
+  - PROCESS-NAME,vgm.exe # Vanguard Anti-Cheat (Valorant, League of Legends)
+  - PROCESS-NAME,EasyAntiCheat.exe
+  - PROCESS-NAME,EscapeFromTarkovArena_BE.exe # Escape From Tarkov - Arena Battle Eye Anticheat
+  - PROCESS-NAME,EscapeFromTarkov_BE.exe # Escape From Tarkov Battle Eye Anticheat
+  - PROCESS-NAME,EasyAntiCheat_EOS.exe # Hunt: Showdown Easy Anti-Cheat
+  - PROCESS-NAME,faceitservice.exe # FaceIT AC
+  - PROCESS-NAME,faceitclient.exe  # FaceIT AC
+  - PROCESS-NAME,SGuard64.exe # Anti-Cheat Expert
+  - PROCESS-NAME,SGuardSvc64.exe # Anti-Cheat Expert
+  - PROCESS-NAME,SGuardUpdate64.exe # Anti-Cheat Expert
+  - PROCESS-NAME,ACE-Service64.exe # Anti-Cheat Expert
