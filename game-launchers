@@ -1,0 +1,16 @@
+- PROCESS-NAME-REGEX,(?i).*steam.*
+- PROCESS-NAME-REGEX,(?i).*(EpicGamesLauncher|EpicWebHelper|EpicOnlineServices|EOSOverlay|UnrealCEFSubProcess).*
+- PROCESS-NAME-REGEX,(?i).*(EADesktop|EABackgroundService|EACefSubProcess|EALocalHostSvc|Link2EA|OriginWebHelperService).*
+- PROCESS-NAME,Origin.exe
+- PROCESS-NAME-REGEX,(?i).*(Battle\.net|Blizzard).*
+- PROCESS-NAME,Agent.exe
+- PROCESS-NAME-REGEX,(?i).*(Ubisoft|Uplay).*
+- PROCESS-NAME,Upc.exe
+- PROCESS-NAME-REGEX,(?i).*(XboxPc|XboxGameBar|XboxApp|GamingServices|gamelaunchhelper|MinecraftLauncher).*
+- PROCESS-NAME-REGEX,(?i).*(RiotClient|RiotGames|vgc\.exe).*
+- PROCESS-NAME-REGEX,(?i).*(GalaxyClient|GalaxyCommunication|GOG Galaxy).*
+- PROCESS-NAME-REGEX,(?i).*(Rockstar|SocialClubHelper).*
+- PROCESS-PATH-REGEX,(?i).*Rockstar Games.*Launcher.*\.exe
+- PROCESS-NAME-REGEX,(?i).*(HYP\.exe|HYPHelper|BsgLauncher|wgc\.exe|lgc\.exe|gjagent).*
+- PROCESS-NAME-REGEX,(?i).*(CurseForge|Overwolf|Modrinth|Heroic|Playnite|itch\.exe|Amazon Games).*
+- PROCESS-NAME-REGEX,(?i).*(EasyAntiCheat|BEService|BattlEye).*
